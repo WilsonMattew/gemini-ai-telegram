@@ -16,7 +16,7 @@
 
 ## ☁️ Cloud Host:
 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AbhiTheModder/gemini-ai-telegram&branch=main&name=gemini"><img src="https://www.koyeb.com/static/images/deploy/button.svg">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/WilsonMattew/gemini-ai-telegram&branch=main&name=gemini"><img src="https://www.koyeb.com/static/images/deploy/button.svg">
 
 ## 📦 Requirements:
 - Python >=3.9 [Best if >=python3.11]
