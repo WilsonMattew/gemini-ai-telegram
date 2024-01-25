@@ -5,15 +5,15 @@ import google.generativeai as genai
 from pyrogram import Client, filters, enums
 from pyrogram.types import Message
 
-API_KEY="your gemini api key here"
+API_KEY="AIzaSyAcgo4QMglH9Drppt6ZXQ3PDUQC69rGikA"
 
 genai.configure(api_key=API_KEY)
 
 model = genai.GenerativeModel("gemini-pro")
 
-API_ID = your_api_id
-API_HASH = 'your_api_hash'
-BOT_TOKEN = 'your_bot_token'
+API_ID = 26351529
+API_HASH = 'e2076ce1ff7824e6511838ca20213bed'
+BOT_TOKEN = '6820508220:AAG_ZNKObaFtmGUTWMaU47dxQbGPr_q4KUc'
 
 app = Client("gemini_ai", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
